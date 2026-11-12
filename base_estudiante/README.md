@@ -86,7 +86,10 @@ Se ejecutaron y validaron localmente los siguientes controles de seguridad y man
 * **Fuentes consultadas:** Documentación oficial de Python 3 (módulos `json`, `pathlib`, `datetime`) y material base proporcionado en el curso COMP 2700 (`app.py` y `seguridad.py`).
 * **Herramientas de IA utilizadas:** Se utilizó el asistente de inteligencia artificial **Gemini** como apoyo técnico para estructurar el manejo de excepciones (`JSONDecodeError`), refinar la lógica de validación de rangos numéricos y organizar el formato de registros JSONL en `auditoria.jsonl`.
 * **Verificación:** Todas las sugerencias generadas fueron probadas y depuradas manualmente en la terminal de Linux mediante casos de prueba límite (entradas inválidas, sesiones nulas y archivos corruptos) para asegurar su funcionamiento exacto conforme a las reglas del proyecto.
+## Referencias y Fuentes
 
+* **OWASP Foundation.** (2021). *OWASP Top Ten: The Ten Most Critical Web Application Security Risks*. Open Worldwide Application Security Project (OWASP). [https://owasp.org/www-project-top-ten/](https://owasp.org/www-project-top-ten/)
+* **National Institute of Standards and Technology (NIST).** (2020). *Digital Identity Guidelines* (NIST Special Publication 800-63B). U.S. Department of Commerce.
 ---
 
 ## Limitaciones del Prototipo
