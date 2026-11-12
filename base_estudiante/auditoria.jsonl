@@ -1,0 +1,40 @@
+{"fecha_hora": "2026-11-11T20:51:49.744228", "usuario": "admin", "accion": "login", "resultado": "exitoso"}
+{"fecha_hora": "2026-11-11T20:53:18.260794", "usuario": "admin", "accion": "login", "resultado": "fallido", "motivo": "password_incorrecto"}
+{"fecha_hora": "2026-11-11T20:54:06.725102", "usuario": "mrworldwide", "accion": "login", "resultado": "fallido", "motivo": "usuario_inexistente"}
+{"fecha_hora": "2026-11-11T21:14:12.764548", "usuario": "user", "accion": "login", "resultado": "exitoso"}
+{"fecha_hora": "2026-11-11T21:14:32.466008", "usuario": "user", "accion": "modificar", "resultado": "rechazado", "motivo": "permiso_insuficiente"}
+{"fecha_hora": "2026-11-11T21:23:31.349038", "usuario": "None", "accion": "login", "resultado": "fallido", "motivo": "usuario_inexistente"}
+{"fecha_hora": "2026-11-11T21:29:42.257978", "usuario": "user", "accion": "login", "resultado": "exitoso"}
+{"fecha_hora": "2026-11-11T21:29:55.350051", "usuario": "user", "accion": "modificar", "resultado": "rechazado", "motivo": "permiso_insuficiente"}
+{"fecha_hora": "2026-11-11T21:31:21.728326", "usuario": "user", "accion": "login", "resultado": "exitoso"}
+{"fecha_hora": "2026-11-11T21:31:27.175562", "usuario": "user", "accion": "modificar", "resultado": "rechazado", "motivo": "permiso_insuficiente"}
+{"fecha_hora": "2026-11-11T21:33:58.884540", "usuario": "user", "accion": "login", "resultado": "exitoso"}
+{"fecha_hora": "2026-11-11T21:34:08.347023", "usuario": "user", "accion": "modificar", "resultado": "rechazado", "motivo": "permiso_insuficiente"}
+{"fecha_hora": "2026-11-11T21:36:43.457812", "usuario": "1", "accion": "login", "resultado": "fallido", "motivo": "usuario_inexistente"}
+{"fecha_hora": "2026-11-11T21:41:57.080184", "usuario": "sin_sesion", "accion": "modificar", "resultado": "rechazado", "motivo": "sin_sesion"}
+{"fecha_hora": "2026-11-11T21:41:57.080362", "usuario": "sin_sesion", "accion": "consultar", "resultado": "rechazado", "motivo": "sin_sesion"}
+{"fecha_hora": "2026-11-11T21:43:02.890373", "usuario": "user", "accion": "login", "resultado": "exitoso"}
+{"fecha_hora": "2026-11-11T21:43:20.576258", "usuario": "user", "accion": "modificar", "resultado": "rechazado", "motivo": "permiso_insuficiente"}
+{"fecha_hora": "2026-11-11T21:43:47.797422", "usuario": "sin_sesion", "accion": "modificar", "resultado": "rechazado", "motivo": "sin_sesion"}
+{"fecha_hora": "2026-11-11T21:43:47.797634", "usuario": "sin_sesion", "accion": "consultar", "resultado": "rechazado", "motivo": "sin_sesion"}
+{"fecha_hora": "2026-11-11T21:46:36.343926", "usuario": "sin_sesion", "accion": "modificar", "resultado": "rechazado", "motivo": "sin_sesion"}
+{"fecha_hora": "2026-11-11T21:46:36.344128", "usuario": "sin_sesion", "accion": "consultar", "resultado": "rechazado", "motivo": "sin_sesion"}
+{"fecha_hora": "2026-11-11T22:13:10.123522", "usuario": "admin", "accion": "login", "resultado": "exitoso"}
+{"fecha_hora": "2026-11-11T22:18:25.489095", "usuario": "admin", "accion": "modificar", "resultado": "exitoso", "producto": "P001", "anterior": 10, "nueva": 0}
+{"fecha_hora": "2026-11-11T22:18:43.670820", "usuario": "admin", "accion": "modificar", "resultado": "exitoso", "producto": "P001", "anterior": 0, "nueva": 1000}
+{"fecha_hora": "2026-11-11T22:19:09.676012", "usuario": "admin", "accion": "modificar", "resultado": "exitoso", "producto": "P001", "anterior": 1000, "nueva": 10}
+{"fecha_hora": "2026-11-11T22:32:03.653840", "usuario": "user", "accion": "login", "resultado": "exitoso"}
+{"fecha_hora": "2026-11-11T22:33:05.985723", "usuario": "admin", "accion": "login", "resultado": "fallido", "motivo": "password_incorrecto"}
+{"fecha_hora": "2026-11-11T22:33:55.360677", "usuario": "user", "accion": "login", "resultado": "exitoso"}
+{"fecha_hora": "2026-11-11T22:34:28.750063", "usuario": "admin", "accion": "login", "resultado": "exitoso"}
+{"fecha_hora": "2026-11-11T22:35:42.396116", "usuario": "admin", "accion": "modificar", "resultado": "exitoso", "producto": "P001", "anterior": 10, "nueva": 20}
+{"fecha_hora": "2026-11-11T22:45:53.503356", "usuario": "admin", "accion": "login", "resultado": "exitoso"}
+{"fecha_hora": "2026-11-11T22:58:26.350919", "usuario": "admin", "accion": "login", "resultado": "exitoso"}
+{"fecha_hora": "2026-11-11T22:59:13.068002", "usuario": "admin", "accion": "login", "resultado": "fallido", "motivo": "password_incorrecto"}
+{"fecha_hora": "2026-11-11T23:00:07.038376", "usuario": "admin", "accion": "login", "resultado": "exitoso"}
+{"fecha_hora": "2026-11-11T23:00:16.973586", "usuario": "admin", "accion": "modificar", "resultado": "exitoso", "producto": "P001", "anterior": 20, "nueva": 15}
+{"fecha_hora": "2026-11-11T23:00:42.915597", "usuario": "user", "accion": "login", "resultado": "exitoso"}
+{"fecha_hora": "2026-11-11T23:00:52.167823", "usuario": "user", "accion": "modificar", "resultado": "rechazado", "motivo": "permiso_insuficiente"}
+{"fecha_hora": "2026-11-11T23:15:23.306287", "usuario": "admin", "accion": "login", "resultado": "exitoso"}
+{"fecha_hora": "2026-11-11T23:17:05.775296", "usuario": "admin", "accion": "login", "resultado": "exitoso"}
+{"fecha_hora": "2026-11-11T23:18:28.860112", "usuario": "admin", "accion": "login", "resultado": "exitoso"}
